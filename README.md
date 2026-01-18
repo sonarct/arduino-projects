@@ -1,2 +1,2 @@
-# arduino-projects
+# Arduino projects
 How I'm learning arduino
